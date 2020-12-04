@@ -35,7 +35,7 @@ function talkTrash() {
     "Did you know that pineapples on pizza is the best?",
     "SOMEBODY ONCE TOLD ME.",
     "derp.",
-    "Jarrod needs better project ideas",
+    "Ananya needs better project ideas",
     "someone help.",
     "Hopefully, I don't repeat everything I just said"
   ];
